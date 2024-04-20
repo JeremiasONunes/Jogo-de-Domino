@@ -57,7 +57,7 @@ Centraliza a lógica do jogo, distribuindo peças, controlando turnos dos jogado
 
 5. **Reinício do Jogo:**
    - Após determinar o vencedor, os jogadores têm a opção de iniciar um novo jogo ou encerrar o programa.
-6. **autores:**
+6. **autores: Equipe milenniun Falcon**
    - jeremias O Nunes.
    - Rafael Mesquita.
    - Igor Flores Bento
